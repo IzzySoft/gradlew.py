@@ -1,4 +1,20 @@
 {
+  "8.13": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.13-bin.zip",
+    "sha256": "20f1b1176237254a6fc204d8434196fa11a4cfb387567519c61556e8710aed78"
+  },
+  "8.14-milestone-3": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.14-milestone-3-bin.zip",
+    "sha256": "b232697f41807f172f991dfb78e5013b6ed71d8c7d0256b2d93df41eba18c5cd"
+  },
+  "8.13-rc-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.13-rc-2-bin.zip",
+    "sha256": "264353f17a13391626fc8d0e86ae8023f30ea334a470caae0cfee02fe6cd1f3d"
+  },
+  "8.14-milestone-2": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.14-milestone-2-bin.zip",
+    "sha256": "2db4c39174c3dc0ced756b60b2b8d151eb0d12b65e539c91ac7f7d36b7e7dd2d"
+  },
   "8.14-milestone-1": {
     "binzip_url": "https://services.gradle.org/distributions/gradle-8.14-milestone-1-bin.zip",
     "sha256": "0978afc2b32e0f05dbe881681de850a2413f85f6ebe96848719e2b710b9fbde7"
