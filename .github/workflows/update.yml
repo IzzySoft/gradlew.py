@@ -33,7 +33,7 @@ jobs:
       - name: Update gradle-versions.json
         run: make
       - name: Create pull request
-        uses: peter-evans/create-pull-request@v7.0.6
+        uses: peter-evans/create-pull-request@v7.0.8
         with:
           title: "Update gradle-versions.json"
           commit-message: "Update gradle-versions.json"
