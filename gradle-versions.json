@@ -1,4 +1,8 @@
 {
+  "8.14-milestone-8": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-8.14-milestone-8-bin.zip",
+    "sha256": "6b6e36374f80d3e5594d9fda7040bf45e1e4617ecb95529f4f5cae77d4c6cd8f"
+  },
   "8.14-milestone-7": {
     "binzip_url": "https://services.gradle.org/distributions/gradle-8.14-milestone-7-bin.zip",
     "sha256": "13c012a0343d1d310966e6ee1347b3a9b90f210f06a1b1e54ce57fbea8a1233d"
