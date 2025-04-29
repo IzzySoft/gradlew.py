@@ -1,4 +1,12 @@
 {
+  "9.0-milestone-5": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-9.0-milestone-5-bin.zip",
+    "sha256": "d9f0549d640c07389b2d83717a9ae4ca9a49ed2120f95d14015da227ecba16fc"
+  },
+  "9.0-milestone-4": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-9.0-milestone-4-bin.zip",
+    "sha256": "ad3873e76d4127629e605d8551fa2b1f893b59d9171138c9463bd5c2001981a9"
+  },
   "8.14": {
     "binzip_url": "https://services.gradle.org/distributions/gradle-8.14-bin.zip",
     "sha256": "61ad310d3c7d3e5da131b76bbf22b5a4c0786e9d892dae8c1658d4b484de3caa"
