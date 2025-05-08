@@ -1,4 +1,8 @@
 {
+  "9.0-milestone-6": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-9.0-milestone-6-bin.zip",
+    "sha256": "47177c00fc3574e3557902ed9f4bab073597d22c6d9a3fcde8bf8bbc8286f220"
+  },
   "9.0-milestone-5": {
     "binzip_url": "https://services.gradle.org/distributions/gradle-9.0-milestone-5-bin.zip",
     "sha256": "d9f0549d640c07389b2d83717a9ae4ca9a49ed2120f95d14015da227ecba16fc"
