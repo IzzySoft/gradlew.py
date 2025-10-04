@@ -1,4 +1,8 @@
 {
+  "9.2.0-rc-1": {
+    "binzip_url": "https://services.gradle.org/distributions/gradle-9.2.0-rc-1-bin.zip",
+    "sha256": "2fdde961d051e8fc4c9918aa40d3eee24fd9f1d32f705f517af9c89d758af3be"
+  },
   "9.1.0": {
     "binzip_url": "https://services.gradle.org/distributions/gradle-9.1.0-bin.zip",
     "sha256": "a17ddd85a26b6a7f5ddb71ff8b05fc5104c0202c6e64782429790c933686c806"
